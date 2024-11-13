@@ -28,4 +28,4 @@ SELECT
 FROM 
     RankedProducts
 WHERE 
-    sales_rank <= 5;
+    sales_rank <= 5;= 5;
